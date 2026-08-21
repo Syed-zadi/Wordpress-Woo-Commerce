@@ -4,7 +4,7 @@ A lightweight, SEO-friendly WordPress Site built with Woo Commerce and ACF.
 Short: my client needs a website for weapons and ammunition. 
 
 ## Demo
-- Live: [https://example.com (agar ho)](https://bandookwala.com.pk/)
+- Live:(https://bandookwala.com.pk/)
 
 ## Tech Stack
 - WordPress, PHP, ACF, WooCommerce
